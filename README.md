@@ -16,11 +16,12 @@ This portfolio describes product scope, engineering responsibilities, and techni
 
 Across these products, my work covered the full mobile delivery cycle:
 
-- translating product requirements and Figma designs into maintainable iOS implementations;
-- shaping navigation, state management, service boundaries, and data flow;
-- integrating system frameworks, permissions, subscriptions, analytics, and release configuration;
-- preparing App Store builds and supporting products after launch;
-- collaborating with product and design stakeholders while owning mobile implementation.
+- translating product goals and early-stage requirements into technical plans;
+- evaluating external services and implementation approaches, comparing trade-offs, and recommending solutions;
+- shaping architecture, navigation, state management, service boundaries, and data flow;
+- implementing native iOS functionality and selected supporting automation or backend components;
+- integrating permissions, subscriptions, analytics, attribution, and release configuration;
+- preparing App Store builds, resolving delivery issues, and improving products after launch.
 
 ## Core stack
 
